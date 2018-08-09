@@ -5,10 +5,6 @@ package com.mohan.datastructures;
 
 import java.util.Scanner;
 
-/**
- * @author mchandra
- *
- */
 public class ExchangeSortingDemo {
 	/**
 	 * @param args

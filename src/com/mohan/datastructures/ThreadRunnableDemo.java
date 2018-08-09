@@ -3,10 +3,6 @@
  */
 package com.mohan.datastructures;
 
-/**
- * @author mchandra
- *
- */
 public class ThreadRunnableDemo {
 
 	/**

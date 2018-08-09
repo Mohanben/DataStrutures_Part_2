@@ -6,10 +6,6 @@ package com.mohan.datastructures;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * @author mchandra
- *
- */
 public class FindMaximumNumber {
 
 	/**

@@ -4,11 +4,6 @@
 package com.mohan.datastructures;
 
 import java.util.Scanner;
-
-/**
- * @author mchandra
- *
- */
 public class FindMaximumNumber2 {
 
 	/**
